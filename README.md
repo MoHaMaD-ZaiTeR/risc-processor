@@ -11,7 +11,7 @@ This project implements a simple RISC processor with a custom 16-bit instruction
 - Separate instruction and data memory
 - 
 ## Details
-For full design and implementation details, see the included report.pdf.
+For full design and implementation details, see the included pdf
 
 ## Author
 Mohammad Zaiter
